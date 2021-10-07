@@ -1,4 +1,5 @@
 
-Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
-
-gunicorn==20.1.0
+Flask==1.1.2
+numpy==1.19.2
+pandas==1.1.5
+gunicorn
