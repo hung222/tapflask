@@ -6,7 +6,7 @@ def xinchào():
     return 'xin chào mọi người!,nkkbavlnhczbxnbcdccctclsndavhnvl'
 
 @app.route('/ https://github.com/hung222/tapflask/blob/nktbbc/flask/ccnkt.html")
-def ccnkt.hhtml():
+def ccnkt.html():
      return 'https://github.com/hung222/tapflask/blob/nktbbc/flask/ccnkt.html'      
  
 if __name__ == '__main__':
